@@ -10,7 +10,7 @@ def generate_password():
 
 
 window = tk.Tk()
-window.title("Password Generator by Sachin ")
+window.title("Password Generator")
 
 
 length_label = tk.Label(window, text="Password Length:")
